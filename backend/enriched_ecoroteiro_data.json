@@ -1,0 +1,161 @@
+[
+    {
+        "id": "parque_coco",
+        "nome": "Parque Estadual do Cocó",
+        "descricao": "O Parque Estadual do Cocó, localizado em Fortaleza, Ceará, é o maior parque natural urbano da região Nordeste. Oferece trilhas planas e sombreadas, ideais para caminhadas relaxantes, além de áreas para passeio de barco e contemplação da natureza. O parque é uma excelente opção para famílias e pessoas que desejam conectar-se com a natureza urbana, observar a vida selvagem e desfrutar do mangue.",
+        "dificuldade": "fácil",
+        "nivel_experiencia": "iniciante",
+        "condicao_fisica": "baixa",
+        "interesses": [
+            "natureza urbana",
+            "trilha",
+            "passeio de barco",
+            "familia",
+            "mangue"
+        ],
+        "full_search_text": "Título: . Dificuldade: fácil. Local: . Interesses: . Descrição: "
+    },
+    {
+        "id": "dunas_sabiaguaba",
+        "nome": "Dunas de Sabiaguaba e Ecomuseu",
+        "descricao": "Localizado no Ceará, o Dunas de Sabiaguaba e Ecomuseu é uma área de preservação ambiental conhecida por suas dunas móveis e fixas. A caminhada pela areia fofa pode exigir um pouco mais de esforço, mas a paisagem única e a oportunidade de apreciar a vida selvagem e a beleza natural do local tornam a experiência gratificante.",
+        "dificuldade": "médio",
+        "nivel_experiencia": "intermediário",
+        "condicao_fisica": "média",
+        "interesses": [
+            "dunas",
+            "por do sol",
+            "mangue",
+            "praia",
+            "educação ambiental"
+        ],
+        "full_search_text": "Título: . Dificuldade: médio. Local: . Interesses: . Descrição: "
+    },
+    {
+        "id": "floresta_curio",
+        "nome": "Floresta do Curió",
+        "descricao": "Um enclave de Mata Atlântica localizado no Ceará, com trilhas muito arborizadas e silenciosas, ideal para quem busca tranquilidade e natureza.",
+        "dificuldade": "fácil",
+        "nivel_experiencia": "iniciante",
+        "condicao_fisica": "baixa",
+        "interesses": [
+            "mata atlântica",
+            "trilha",
+            "natureza",
+            "sossego"
+        ],
+        "full_search_text": "Título: . Dificuldade: fácil. Local: . Interesses: . Descrição: "
+    },
+    {
+        "id": "parque_botanico_caucaia",
+        "nome": "Parque Botânico do Ceará",
+        "descricao": "Localizado no Ceará, o Parque Botânico é uma unidade de conservação que oferece trilhas pavimentadas e planas, ideal para caminhadas familiares ou para apreciar a rica flora local.",
+        "dificuldade": "fácil",
+        "nivel_experiencia": "iniciante",
+        "condicao_fisica": "baixa",
+        "interesses": [
+            "flora",
+            "acessibilidade",
+            "caminhada",
+            "lago",
+            "familia"
+        ],
+        "localizacao": "Ceará",
+        "full_search_text": "Título: . Dificuldade: fácil. Local: . Interesses: . Descrição: "
+    },
+    {
+        "id": "lagoa_cauipe",
+        "nome": "Barra do Cauípe",
+        "descricao": "Localizado no Ceará, a Barra do Cauípe é um ponto de encontro do rio com o mar, oferecendo uma caminhada longa pela praia com vistas deslumbrantes da paisagem cearense.",
+        "dificuldade": "fácil",
+        "nivel_experiencia": "iniciante",
+        "condicao_fisica": "baixa",
+        "interesses": [
+            "praia",
+            "lagoa",
+            "banho",
+            "paisagem"
+        ],
+        "localizacao": "Ceará",
+        "atividades": [
+            "caminhada",
+            "banho de praia",
+            "apreciação da paisagem"
+        ],
+        "full_search_text": "Título: . Dificuldade: fácil. Local: . Interesses: . Descrição: "
+    },
+    {
+        "id": "rio_pacoti",
+        "nome": "Rio Pacoti (Passeio de Caiaque)",
+        "descricao": "Passeio de caiaque ou SUP no Rio Pacoti, localizado no Ceará, que exige força nos braços e equilíbrio, permitindo uma conexão íntima com a natureza e a observação da vida selvagem do mangue.",
+        "dificuldade": "médio",
+        "nivel_experiencia": "intermediário",
+        "condicao_fisica": "média",
+        "interesses": [
+            "caiaque",
+            "rio",
+            "mangue",
+            "esporte aquático"
+        ],
+        "full_search_text": "Título: . Dificuldade: médio. Local: . Interesses: . Descrição: "
+    },
+    {
+        "id": "engenhoca_parque",
+        "nome": "Engenhoca Parque",
+        "descricao": "Localizado no Ceará, o Engenhoca Parque é um destino de ecoturismo que oferece um parque de aventura com diversas trilhas e atividades físicas para todos os níveis de experiência.",
+        "dificuldade": "médio",
+        "nivel_experiencia": "intermediário",
+        "condicao_fisica": "média",
+        "interesses": [
+            "aventura",
+            "arvorismo",
+            "parque privado",
+            "trilha"
+        ],
+        "localizacao": {
+            "estado": "Ceará",
+            "regiao": "Nordeste"
+        },
+        "full_search_text": "Título: . Dificuldade: médio. Local: . Interesses: . Descrição: "
+    },
+    {
+        "id": "pedra_rajada_maranguape",
+        "nome": "Pedra da Rajada (Serra de Maranguape)",
+        "descricao": "Localizada no município de Maranguape, a Pedra da Rajada é uma trilha íngreme em mata úmida que exige muito esforço cardiovascular, sendo ideal para os amantes de aventura e preparo físico.",
+        "dificuldade": "dificíl",
+        "nivel_experiencia": "avançado",
+        "condicao_fisica": "alta",
+        "interesses": [
+            "montanha",
+            "trilha",
+            "vista panorâmica",
+            "aventura",
+            "preparo físico"
+        ],
+        "localizacao": {
+            "estado": "Ceará",
+            "municipio": "Maranguape"
+        },
+        "atividades": [
+            "caminhada",
+            "escalada",
+            "observação de flora e fauna"
+        ],
+        "full_search_text": "Título: . Dificuldade: dificíl. Local: . Interesses: . Descrição: "
+    },
+    {
+        "id": "serra_aratanha",
+        "nome": "Serra de Aratanha (Pacatuba)",
+        "descricao": "Localizada no município de Pacatuba, no estado do Ceará, a Serra de Aratanha é um destino de ecoturismo conhecido por suas trilhas em ambiente serrano com subidas fortes, proporcionando vistas panorâmicas deslumbrantes. Os visitantes podem desfrutar de banho de acude em meio à natureza",
+        "dificuldade": "médio",
+        "nivel_experiencia": "intermediário",
+        "condicao_fisica": "boa",
+        "interesses": [
+            "montanha",
+            "trilha",
+            "banho de acude",
+            "vista panorâmica"
+        ],
+        "full_search_text": "Título: . Dificuldade: médio. Local: . Interesses: . Descrição: "
+    }
+]

@@ -1,0 +1,16 @@
+# Arquivos de Segredos (NÃO SUBA ISSO)
+backend/.env
+frontend/.env*
+
+# Python / Backend
+venv/
+__pycache__/
+*.pyc
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+
+# Pasta do Banco de Dados Vetorial (Local)
+chroma_db_store/

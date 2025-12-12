@@ -1,0 +1,83 @@
+[
+  {
+    "id": "parque_coco",
+    "nome": "Parque Estadual do Cocó",
+    "descricao": "Maior parque natural urbano da região. Possui trilhas planas e sombreadas.",
+    "dificuldade": "Fácil",
+    "nivel_experiencia": "iniciante",
+    "condicao_fisica": "baixa",
+    "interesses": ["natureza urbana", "trilha", "passeio de barco", "familia", "mangue"]
+  },
+  {
+    "id": "dunas_sabiaguaba",
+    "nome": "Dunas de Sabiaguaba e Ecomuseu",
+    "descricao": "Área de preservação com dunas móveis e fixas. Caminhada na areia fofa exige um pouco mais.",
+    "dificuldade": "Média",
+    "nivel_experiencia": "intermediario",
+    "condicao_fisica": "media",
+    "interesses": ["dunas", "por do sol", "mangue", "praia", "educacao ambiental"]
+  },
+  {
+    "id": "floresta_curio",
+    "nome": "Floresta do Curió",
+    "descricao": "Um enclave de Mata Atlântica. Trilhas muito arborizadas e silenciosas.",
+    "dificuldade": "Fácil",
+    "nivel_experiencia": "iniciante",
+    "condicao_fisica": "baixa",
+    "interesses": ["mata atlantica", "trilha", "natureza urbana", "sossego"]
+  },
+  {
+    "id": "parque_botanico_caucaia",
+    "nome": "Parque Botânico do Ceará",
+    "descricao": "Unidade de conservação com trilhas pavimentadas e planas.",
+    "dificuldade": "Fácil",
+    "nivel_experiencia": "iniciante",
+    "condicao_fisica": "baixa",
+    "interesses": ["flora", "acessibilidade", "caminhada", "lago", "familia"]
+  },
+  {
+    "id": "lagoa_cauipe",
+    "nome": "Barra do Cauípe",
+    "descricao": "Encontro do rio com o mar. Caminhada longa pela praia.",
+    "dificuldade": "Fácil",
+    "nivel_experiencia": "iniciante",
+    "condicao_fisica": "baixa",
+    "interesses": ["praia", "lagoa", "banho", "paisagem"]
+  },
+  {
+    "id": "rio_pacoti",
+    "nome": "Rio Pacoti (Passeio de Caiaque)",
+    "descricao": "Passeio de caiaque ou SUP. Exige força nos braços e equilíbrio.",
+    "dificuldade": "Média",
+    "nivel_experiencia": "intermediario",
+    "condicao_fisica": "media",
+    "interesses": ["caiaque", "rio", "mangue", "esporte aquatico"]
+  },
+  {
+    "id": "engenhoca_parque",
+    "nome": "Engenhoca Parque",
+    "descricao": "Parque de aventura com trilhas e atividades físicas.",
+    "dificuldade": "Média",
+    "nivel_experiencia": "intermediario",
+    "condicao_fisica": "media",
+    "interesses": ["aventura", "arvorismo", "parque privado", "trilha"]
+  },
+  {
+    "id": "pedra_rajada_maranguape",
+    "nome": "Pedra da Rajada (Serra de Maranguape)",
+    "descricao": "Trilha íngreme em mata úmida. Exige muito esforço cardiovascular.",
+    "dificuldade": "Difícil",
+    "nivel_experiencia": "avancado",
+    "condicao_fisica": "alta",
+    "interesses": ["montanha", "trilha", "vista panoramica", "aventura", "preparo fisico"]
+  },
+  {
+    "id": "serra_aratanha",
+    "nome": "Serra de Aratanha (Pacatuba)",
+    "descricao": "Trilhas em ambiente serrano com subidas fortes.",
+    "dificuldade": "Média",
+    "nivel_experiencia": "intermediario",
+    "condicao_fisica": "media",
+    "interesses": ["montanha", "trilha", "banho de acude", "vista panoramica"]
+  }
+]
