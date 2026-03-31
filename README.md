@@ -16,15 +16,7 @@ O Ecoroteiro visa democratizar o acesso ao ecoturismo responsável em Fortaleza 
 - Node.js 20+ e npm
 - Python 3.11+ e `pip`
 
-## Variáveis de ambiente (`.env`)
 
-Crie um arquivo `.env` (use os dados abaixo) na raiz do projeto (o backend e os scripts Python carregam esse arquivo automaticamente com `python-dotenv`):
-
-```env
-SUPABASE_URL="https://abfibigxnqelfwnvxqqm.supabase.co/"
-SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFiZmliaWd4bnFlbGZ3bnZ4cXFtIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2NTA1NzE1NiwiZXhwIjoyMDgwNjMzMTU2fQ.5P0cEdP0YUVasizzCEMDMzq2MM0mfhOv8SnRbYFncfY"
-GROQ_API_KEY="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"
-```
 
 ## Rodando o backend (FastAPI)
 
